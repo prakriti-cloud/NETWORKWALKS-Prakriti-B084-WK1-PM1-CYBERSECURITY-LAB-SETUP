@@ -148,3 +148,10 @@ This provides a recovery point for future cybersecurity exercises.
 
 **5. Documentation**
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project and that documentation helps us track our progress as well as increases our credibility.
+
+👤 Author  
+Prakriti Acharya  
+LinkedIn: https://www.linkedin.com/in/prakriti-acharya-a57200246/  
+
+📌 Project Information  
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
