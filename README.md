@@ -43,3 +43,11 @@ It can be used for activities such as:
 
 ⚙️ Lab Configuration
 
+| Component     | Configuration |
+| ------------- | ------------- |
+| Host OS       | Windows 11    |
+| Host RAM      | 8 GB          |
+| Processor     | Intel Core i5 |
+| Hypervisor    | VirtualBox 7.2|
+| Security OS   | Kali Linux 2025.1|
+| Kali RAM      | 2048 MB       |
